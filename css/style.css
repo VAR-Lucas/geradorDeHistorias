@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(67, 41, 90);
+    height: 100%;
+    max-width: 100%;
+    
+}
+#b:hover{
+    background-color: aqua;
+}
+#b{
+    margin-bottom: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+#error{
+    color: red;
+}
+
+textarea{
+    resize: none;
+    font-size: 14px;
+}
+#box{
+    text-align: center;
+    background-image: linear-gradient(rgba(255, 5, 213, 0.678), rgba(3, 5, 46, 0.596));
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    border: rgb(43, 15, 68) solid 1px;
+    padding-bottom: 30px;
+}
+#box:hover{
+    box-shadow: 0px 0px 5px rgb(255, 60, 255);
+}
+p{
+    font-size: 20px;
+}
+
